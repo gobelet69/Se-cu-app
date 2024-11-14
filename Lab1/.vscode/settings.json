@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "ex4.C": "cpp",
+        "ex5.C": "cpp"
+    }
+}
